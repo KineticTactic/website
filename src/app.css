@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap");
+
+:root {
+    /* color-scheme: light dark; */
+    /* color: rgba(255, 255, 255, 0.87); */
+    color: white;
+    background-color: #111113;
+
+    /* font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%; */
+}
+
+/* set all elements styling to border box*/
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
