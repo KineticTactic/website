@@ -3,9 +3,11 @@
     import { fade, fly } from "svelte/transition";
     import { flip } from "svelte/animate";
     import Socials from "./lib/Socials.svelte";
+    import Navbar from "./lib/Navbar.svelte";
 </script>
 
 <main>
+    <!-- <Navbar /> -->
     <div class="container">
         <div class="heading-container">
             <h1>
@@ -23,7 +25,7 @@
     .heading-container {
         display: flex;
         width: 100%;
-        margin: 30vh auto 0 auto;
+        margin: 20vh auto 0 auto;
     }
 
     h1 {

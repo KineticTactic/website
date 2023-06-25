@@ -4,19 +4,19 @@
     const socials = [
         {
             name: "github",
-            url: "https://google.com",
+            url: "https://github.com/KineticTactic",
         },
         {
             name: "twitter",
-            url: "https://google.com",
+            url: "https://twitter.com/tactickinetic",
         },
         {
             name: "instagram",
-            url: "https://google.com",
+            url: "https://instagram.com/tactickinetic",
         },
         {
             name: "discord",
-            url: "https://google.com",
+            url: "https://discordapp.com/users/733608333575192606",
         },
     ];
 </script>
